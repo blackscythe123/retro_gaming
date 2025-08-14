@@ -1,0 +1,28 @@
+# Compiled class files
+*.class
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Java-specific
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Build artifacts
+target/
+out/
+dist/
